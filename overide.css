@@ -3,7 +3,6 @@
     color: black;
 }
 
-
 .Skin 
  #Buttons {
     color: red;
@@ -30,19 +29,13 @@
 }
 
 
-
-input#PreviousButton {}
-
 input#PreviousButton {
     background-color: green !important;
 }
 
-
-
 div#Buttons {
     /* background-color: green; */
 }
-
 
 
 .Skin label.MultipleAnswer,.Skin label.MultipleAnswer.q-focused,.Skin label.SingleAnswer {
