@@ -1,0 +1,53 @@
+* {
+    font-family: "Open Sans";
+    color: black;
+}
+
+
+.Skin 
+ #Buttons {
+    color: red;
+}
+
+.Skin .QuestionText {
+    color: black;
+}
+
+.Skin label.q-radio.q-checked {
+    /* color: red; */
+    border: 2px solid green;
+    background: green;
+}
+
+.Skin label.q-radio.q-checked.q-focused {
+    /* color: red; */
+    border: 2px solid green;
+    background: green;
+}
+
+.Skin label.q-radio {
+    border-color: black;
+}
+
+
+
+input#PreviousButton {}
+
+input#PreviousButton {
+    background-color: green !important;
+}
+
+
+
+div#Buttons {
+    /* background-color: green; */
+}
+
+
+
+.Skin label.MultipleAnswer,.Skin label.MultipleAnswer.q-focused,.Skin label.SingleAnswer {
+  background: white
+    }
+
+.Skin #Buttons #NextButton,.Skin #Buttons #PreviousButton { 
+background-color: green !important;}
